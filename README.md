@@ -38,20 +38,20 @@ cd ../server && npm install
 
 ### 3. Create `.env` file inside `/server` with the following:
 
-MONGODB_URL=mongodb://127.0.0.1:27017/internshala
+MONGODB_URL=mongodb://XYZ
 EXPRESS_SESSION_SECRETE=your_session_secret_here
 JWT_SECRET=your_jwt_secret_here
-JWT_EXPIRE=100h
-COOKIE_EXPIRE=1
+JWT_EXPIRE=XYZh
+COOKIE_EXPIRE=XYZ
 
 MAIL_EMAIL_ADDRESS=your_email@example.com
 MAIL_EMAIL_PASSWORD=your_email_app_password
 
-GEMINI_API_KEY=your_google_gemini_api_key
+GEMINI_API_KEY=Api key
 
-PUBLICKEY_IMAGEKIT=your_public_key
-PRIVATEKEY_IMAGEKIT=your_private_key
-URLENDPOINT_IMAGEKIT=https://ik.imagekit.io/your_endpoint
+PUBLICKEY_IMAGEKIT=public_key
+PRIVATEKEY_IMAGEKIT=private_key
+URLENDPOINT_IMAGEKIT=https://ik.imagekit.io/endpoint
 
 ## Backend:
 
