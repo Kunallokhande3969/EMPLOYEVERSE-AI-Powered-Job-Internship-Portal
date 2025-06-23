@@ -19,7 +19,7 @@ Employeverse is a full-stack web platform where job seekers and recruiters conne
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT, OTP-based email
-- **File Upload**: Multer, Cloudinary
+- **File Upload**: Multer, Imagekit
 - **AI**: Google Gemini 1.5 Flash
 - **Hosting**: Vercel (Frontend), Render (Optional Backend)
 
