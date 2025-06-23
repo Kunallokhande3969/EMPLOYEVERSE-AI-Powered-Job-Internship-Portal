@@ -1,0 +1,52 @@
+.box {
+  width: 100%;
+  height: 56vh;
+  margin-top: 50px;
+  /* background-color: rgb(143, 143, 253); */
+  background-color: transparent;
+  /* border-radius: 20px; */
+  /* margin-left: 15px; */
+  /* z-index: 99; */
+  overflow: hidden;
+}
+
+.box img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.txt1 {
+  /* z-index: 9999; */
+  position: absolute;
+  color: #fff;
+  font-family: "Aeonik Pro";
+  padding: 50px;
+  font-size: 4vw;
+  font-weight: 800;
+}
+
+.txt2 {
+  /* z-index: 9999; */
+  position: absolute;
+  color: #fff;
+  font-family: "Aeonik Pro";
+  padding: 120px 50px;
+}
+
+.txt4 {
+  /* z-index: 9999; */
+  position: absolute;
+  color: #00b8a3;
+  font-family: "Aeonik Pro";
+  padding: 50px;
+  font-size: 4vw;
+  font-weight: 800;
+}
+
+.txt5 {
+  /* z-index: 9999; */
+  position: absolute;
+  font-family: "Aeonik Pro";
+  padding: 120px 50px;
+}
