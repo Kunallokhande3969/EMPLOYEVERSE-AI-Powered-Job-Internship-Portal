@@ -11,7 +11,8 @@ Employeverse is a full-stack web platform where job seekers and recruiters conne
 - 🤖 AI resume feedback using Google Gemini 1.5 Flash model
 - 📄 Resume builder with PDF export
 - 🖥 Responsive frontend built with Next.js and Tailwind CSS
-- ☁️ Deployed on Vercel
+- ☁️ Deployed on Vercel & Render
+
 
 ## 🛠 Tech Stack
 
