@@ -1,0 +1,26 @@
+.box {
+  width: 100vw;
+  height: 60vh;
+  /* background-color: red; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.boxes {
+  width: 400px;
+  height: 270px;
+  background-color: #fff;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.boxes img {
+  object-fit: cover;
+  background-position: center;
+}
+
+/* .box .boxes :hover {
+
+    scale: 1.2;
+} */

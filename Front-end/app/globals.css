@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+@layer components {
+  .header_elems{
+      @apply m-2 p-2
+  }
+}
+
+.prof{
+
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  background-position: center;
+  border: 3px solid #fff; 
+  background-size: cover;
+
+}
+
+.res{
+
+
+  width: 100%;
+  border: .5px solid rgb(217, 206, 206);
+  border-radius: 5px;
+padding: 30px
+}
+
+.custom-text-color {
+  color:#00b8a3;
+}
