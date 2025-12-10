@@ -22,7 +22,7 @@ Employeverse is a full-stack web platform where job seekers and recruiters conne
 - **Authentication**: JWT, OTP-based email
 - **File Upload**: Multer, Cloudinary
 - **AI**: Google Gemini 1.5 Flash
-- **Hosting**: Vercel (Frontend), Render (Optional Backend)
+- **Hosting**: Vercel (Frontend), Render (Backend)
 
 ## 🧪 Setup Instructions
 
